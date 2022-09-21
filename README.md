@@ -18,7 +18,7 @@ Prácticar skills de web scrapping.
 
 [Notebook viewer](https://nbviewer.org/github/yagopajarino/hsbc-jobs/blob/main/hsbc_data_mining.ipynb)
 
-Obtención de una dataset exportado a csv, [descargar datos](./hsbc_jobs_data.csv) con datos de 3507 ofertas laborales detallando:
+Obtención de una dataset exportado a csv, [descargar datos](./hsbc_jobs_data.csv) con datos de **3507** ofertas laborales detallando:
 - Título del puesto
 - Locación
 - Sector
